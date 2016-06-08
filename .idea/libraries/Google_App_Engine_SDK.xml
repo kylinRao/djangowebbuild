@@ -1,0 +1,49 @@
+<component name="libraryTable">
+  <library name="Google App Engine SDK" type="python">
+    <CLASSES>
+      <root url="file://D:/installApp/GAESDK4PYTHON" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/antlr3" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/apiclient" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/argparse" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/cacerts" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/cherrypy" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/concurrent" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/deprecated_enum" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/distutils" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/docker" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/endpoints-1.0" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/fancy_urllib" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/google-api-python-client" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/graphy" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/grizzled" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/httplib2" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/ipaddr" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/jinja2-2.6" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/markupsafe-0.15" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/mox" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/oauth2" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/oauth2client" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/portpicker" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/prettytable" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/protorpc-1.0" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/PyAMF-0.6.1" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/PyAMF-0.7.2" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/pyasn1" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/pyasn1_modules" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/python-gflags" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/requests" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/rsa" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/setuptools-0.6c11" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/simplejson" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/six" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/sqlcmd" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/uritemplate" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/websocket" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/django-1.5" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/webapp2-2.5.2" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/webob-1.2.3" />
+      <root url="file://D:/installApp/GAESDK4PYTHON/lib/yaml-3.10" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

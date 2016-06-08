@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Search</title>
+</head>
+<body >
+
+<form action="tieba" method="get">
+    <p>贴吧ID:</p>
+    <input type="text" name="tiebaId">
+    <p>文件名称:</p>
+    <input type="text" name="fileshortname">
+     <p>kindle地址:</p>
+    <input type="text" name="kindleAddress">
+    <input type="submit" value="Search">
+</form>
+{% if showinfo %}
+    <p style="color: #ff377e;">{{ fileshortname }} is sent to your kindle:{{ kindleAddress }}.</p>
+
+{% endif %}
+</body>
+</html>
